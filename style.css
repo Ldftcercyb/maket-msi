@@ -1,0 +1,223 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.blue_header {
+    overflow: hidden;
+
+    width: 100%;
+    height: 50px;
+    background-color: blue;
+    position: relative;
+}
+
+.imgtelephone {
+    position: absolute;
+    width: 40px;
+    left: 80px;
+    bottom: 10px;
+}
+
+.telephonenumber {
+    color: white;
+    position: absolute;
+    left: 120px;
+    bottom: 20px;
+}
+
+.mailcolor {
+    position: absolute;
+    color: white;
+    left: 250px;
+    bottom: 20px;
+}
+
+.ApplyNow {
+    position: absolute;
+    width: 140px;
+    height: 50px;
+    left: 1700px;
+}
+
+.headerTwo {
+    position: relative;
+    width: 100%;
+    height: 50px;
+}
+
+.blueh1 {
+    text-align: left;
+    font-size: 40px;
+    color: rgb(31, 31, 181);
+    position: absolute;
+    margin-left: 90px;
+    margin-top: 20px;
+
+}
+
+.center {
+    width: 100%;
+    text-align: center;
+}
+
+.helpmenu {
+    margin-top: 30px;
+    width: 5%;
+    text-align: right;
+    display: inline-block;
+
+}
+
+.right {
+    overflow: hidden;
+
+    position: relative;
+    left: 1400px;
+}
+
+.search {
+    overflow: hidden;
+
+    left: 0;
+    z-index: 5;
+    position: absolute;
+    height: 30px;
+    bottom: -12px;
+
+}
+
+.searchw {
+    overflow: hidden;
+
+    position: absolute;
+    left: 175px;
+    bottom: -12px;
+    width: 25px;
+}
+
+.section {
+    width: 100%;
+    position: relative;
+}
+
+.imgtwoback {
+    width: 100%;
+    height: 600px;
+}
+
+.imgh1text {
+    width: 450px;
+    color: white;
+    position: absolute;
+    bottom: 270px;
+    left: 750px;
+    text-align: center;
+}
+
+.inputsubmit {
+    width: 200px;
+    height: 50px;
+    background-color: orange;
+    color: black;
+    position: absolute;
+    bottom: 200px;
+    left: 900px;
+}
+
+.ereqdiv {
+    position: absolute;
+    width: 1000px;
+    left: 260px;
+    top: 650px;
+    height: 800px;
+}
+
+.naxord {
+    top: 250px;
+    right: 1900px;
+    position: absolute;
+    width: 50px;
+    color: white;
+}
+
+.hajord {
+    position: absolute;
+    width: 50px;
+    right: 30px;
+    top: 250px;
+}
+
+.threeplediv_1 {
+    display: inline-block;
+    margin: 15px;
+    background-color: white;
+    width: 28%;
+    padding: 15px;
+
+}
+
+.threeplediv_2 {
+    position: absolute;
+    background-color: white;
+    display: inline-block;
+    margin: 15px;
+    width: 28%;
+    left: 300px;
+    padding: 15px;
+
+}
+
+.threeplediv_3 {
+    position: absolute;
+    display: inline-block;
+    width: 28%;
+    left: 600px;
+    margin: 15px;
+    background-color: white;
+    padding: 15px;
+}
+
+.nooteboockwidth {
+    width: 50px;
+    margin-left: 80px;
+}
+
+.h2coloar {
+    color: black;
+    width: 250px;
+    text-align: center;
+
+}
+
+.teacherpng {
+    width: 50px;
+    margin-left: 110px;
+}
+
+.bookwidth {
+    width: 50px;
+    margin-left: 110px;
+}
+
+.submit {
+    margin-left: 80px;
+    background-color: orange;
+    width: 100px;
+    height: 30px;
+    margin-top: 15px;
+}
+
+.tac {
+    text-align: center;
+}
+
+/* .threeplediv{ */
+/* display: inline-block; */
+/* width: 10%; */
+/* height: 200px; */
+/* border: 2px solid red; */
+/* left: 300px; */
+/* margin-bottom: 450px; */
+/* } */
